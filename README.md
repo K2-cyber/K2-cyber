@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K2-cyber
-- 👀 I’m interested in bugs.
+- 👀 I’m interested in penetrating your software, hardware and infrastructure.
 - 🌱 I’m currently learning how to write enterprise level code, find vulnerabilities and fix them.
 - 💞️ I’m looking to collaborate on intellect.
 - 📫 How to reach me kapishkuchroo@gmail.com
